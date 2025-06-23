@@ -232,5 +232,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <div align="center">
-  <sub>Desenvolvido com ❤️ e ☕ por Matheus Quintanilha</sub>
+  <sub>Desenvolvido por Matheus Quintanilha</sub>
 </div>
